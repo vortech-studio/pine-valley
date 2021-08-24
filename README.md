@@ -1,4 +1,9 @@
 ﻿# pine-valley-app
+ 
+Student details
+Name: Kelvin Kimutai Kipkorir
+Reg No: 119885
+
 Access to Mongo DB
 Url : https://account.mongodb.com/account/login
 Email : vortechstudio@gmail.com
