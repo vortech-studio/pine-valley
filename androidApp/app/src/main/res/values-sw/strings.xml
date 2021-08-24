@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kilabu cha Pine Valley</string>
+    <string name="email">Barua pepe</string>
+    <string name="password">Neno siri</string>
+    <string name="sign_in">Ingia</string>
+    <string name="first_name">Jina la kwanza</string>
+    <string name="last_name">Jina la mwisho</string>
+    <string name="confirm_password">Thibitisha neno siri</string>
+    <string name="sign_up">Jisajili</string>
+    <string name="clubs">Vilabu</string>
+    <string name="home_title">Pata kilabu cha gofu karibu na wewe</string>
+    <string name="the_cascades_desc">Kozi hii ya yadi 6,991, par-72 ni kozi ya kuvutia ya viungo vya jangwa na njia nzuri ya kijani kibichi, miili kubwa za maji, pamoja na Bahari Nyekundu kwenye mashimo matano, na safu ya maziwa yanayotengenezwa na wanadamu kwenye mashimo mengine manne.\n\n
+        Changamoto zingine kwenye uwanja huu mzuri na mgumu wa gofu ni pamoja na mitende iliyojaa karibu na barabara kuu, iliyowekwa kimkakati kwenye barabara kuu za shimo kwenye mashimo mengi, bunkers nyingi za kijani kibichi, na, kwa kweli, jangwa kubwa la mchanga linalokusubiri kila shimo lazima potelea mbali mbali na mstari.\n\n
+        Vifaa vingine vya gofu vinavyopatikana kwenye Cascades ni pamoja na kozi ya shimo tisa kwa tatu , anuwai ya vilabu vya gofu vya hivi karibuni kukodisha na Chuo cha Gofu kilicho na safu ya kuendesha gari ya 60-bay, kuweka kadhaa na kuweka wiki ya mazoezi. na timu ya wataalam wa PGA kila wakati wapo ili kutatua swing yako nje.
+    </string>
+    <string name="other_services">Huduma Zingine</string>
+    <string name="holes">Mashimo</string>
+    <string name="language">Lugha</string>
+    <string name="swimming">Kuogelea</string>
+    <string name="library">Maktaba</string>
+    <string name="horse_riding">Kuendesha Farasi</string>
+    <string name="bar">Baa</string>
+    <string name="walk">" Matembezi ya Asili"</string>
+    <string name="cycle">Kuendesha baiskeli</string>
+    <string name="hike">Kupanda milima</string>
+    <string name="gym">Mazoezi</string>
+    <string name="restaurant">Hoteli</string>
+    <string name="followers">Wafuasi</string>
+
+    <string name="heritage_golf_club_desc">Kwa sasa kuna kozi saba nzuri za ubingwa huko Mauritius na nyingine imepangwa kujengwa katika miaka miwili ijayo.\n\n
+Bora kati yao ni kozi iliyoundwa na Peter Matkovich iliyoundwa na Urithi wa Gofu ya Urithi, ambayo ina urefu wa zaidi ya yadi 7,000, par 72 kutoka tees za nyuma.\n\n
+Hapa, maoni mazuri ya Bahari ya Hindi yanayong\'aa katika mwangaza wa jua yanapatikana kutoka kwenye mashimo 1-5, 7-9 na 17-18, ambayo hupanda hadi vilima vya Bel Ombre kusini mwa kisiwa hicho.</string>
+
+    <string name="mazagan_golf_club_desc">Kozi hiyo katika Mazagan Beach &amp; Golf Resort iliundwa na Gary Player wa Afrika Kusini na, ingawa ilifunguliwa mnamo 2009, tayari imepigiwa kura namba moja nchini Moroko na jarida la "Golf Digest".\n\n
+Iliyoundwa kama kozi ya viungo na Mchezaji anayenyoosha kando ya pwani na matuta kwenye mwambao wa Bahari ya Atlantiki, kozi ya 72 inaweza kunyooshwa kwa yadi 7,484 kutoka tees za nyuma.\n\n
+Kwa bahati nzuri kwa wachezaji wa gofu wa kawaida seti kadhaa za tee huruhusu kozi ichezwe kwa umbali kutoka yadi 6,142-6,647.</string>
+
+    <string name="windhoek_golf_club">Namibia inaweza kuwa sio bora kwa gofu barani Afrika, lakini taifa hili la kusini mwa Afrika lina kozi 15 na "Golf Digest" hivi karibuni ilipigia mashimo 18 huko Windhoek Golf &amp; Country Club bora zaidi.\n\n
+Iliyopewa hekta 72 za mwitu wa asili wa Namibia na mimea kwenye viunga vya mji mkuu, Windhoek ina urefu wa yadi 6,675, par 71 na barabara nzuri ambazo hupita kupitia miti.\n\n
+Mbali na miti na mbaya, ardhioevu hucheza kwenye mashimo matatu na mengi ya bunkers ya kina yanazunguka wiki nyingi.</string>
+
+    <string name="le_touessorok_desc">Kozi nyingine nzuri huko Mauritius ni Le Touessrok, iliyoko kwenye kisiwa chake Ile Aux Cerfs kwenye pwani ya mashariki ya Mauritius, na uwanja wa gofu tu ambao nimecheza ambao hauwezi kufikiwa na barabara, tu kwa mashua au helikopta.\n\n
+Kozi hii iliyoundwa na Bernhard Langer ina urefu wa yadi 7,115, par 72 (kutoka tees za nyuma) na ni mpangilio ambao lazima uchezwe kuaminiwa.\n\n
+Na mashimo kadhaa ambayo huenda karibu na fukwe nyeupe na maji ya samawati ya Bahari ya Hindi, kozi nzima ni kazi ya sanaa, na mimea na wanyama anuwai, pamoja na kardinali nyekundu ambao wanazunguka uwanja wa gofu.</string>
+
+    <string name="lemuria_golf_course_desc">Uwanja wa 5,827, par-70 katika Hoteli ya Lemuria kwenye Kisiwa cha Praslin huko Seychelles ndio kozi pekee ya shimo 18 katika visiwa hivi vya Bahari ya Hindi. Lakini uwanja gani wa gofu!\n\n
+Kile ambacho hakina urefu wa mpangilio mzuri zaidi kuliko inavyotokana na changamoto inayowasilisha.\n\n
+Iliyoundwa na Rodney Wright na Marc Farry, na kufunguliwa mnamo 2000, mashimo 12 ya kwanza hucheza kupitia njia nyembamba nyembamba zilizowekwa na mitende kando ya kituo hicho chenye maji na mchanga mwingi wakisubiri risasi zilizopotea.</string>
+
+    <string name="fancourt_linkk_desc">Moja ya kozi tatu kubwa katika uwanja wa kwanza wa gofu wa Afrika, kozi ya Fancourt Links ilipigiwa kura ya kwanza nchini Afrika Kusini na "Golf Digest" mapema mwaka huu, wakati kozi zingine mbili za Fancourt, Montagu na Outeniqua, zilifanya 20 bora orodha ya "Golf Digest" ya kozi bora nchini Afrika Kusini.\n\n
+Zote tatu zilibuniwa na Gary Player. Kozi mbili za mwisho zilifunguliwa mwanzoni mwa miaka ya 1990, wakati Viungo vilifunguliwa mnamo 2000.\n\n
+Kupima yadi 6,919, par 72 kutoka kwa tees za kilabu, kozi ya Viungo inaweza kunyooshwa hadi yadi 7,535 kutoka tees za nyuma kabisa kuchukua wachezaji bora wa ulimwengu, ambayo imefanywa mara kadhaa.\n\n
+Mnamo 2003 iliandaa Kombe la Marais, ambalo lilimalizika kwa kufungwa kihistoria baada ya mchujo mkali kati ya Tiger Woods na Ernie Els.</string>
+
+    <string name="leopard_rock_golf_desc">Moja ya kozi 30 nchini Zimbabwe, muundo huu wa Peter Peter Matkovich wa 1993 hupigiwa kura namba moja nchini na "Golf Digest."\n\n
+Kupima yadi 6,724, par 72 Leopard Rock iko katika mazingira mazuri ya kitropiki karibu maili 180 kusini mashariki mwa mji mkuu wa Zimbabwe Harare na ina nyasi nzuri sana za kijani kibichi za USGA.\n\n
+Kozi hiyo imechongwa kutoka kwenye misitu minene kwenye kivuli cha mlima wa Leopard Rock, ingawa miti mingi bado iko kwenye barabara kuu.</string>
+
+    <string name="flamingo_golf_course_desc">Ubunifu huu wa yadi 6,698, par-72 Ronald Fream, iko zaidi ya kilomita tano ndani ya bara kutoka Monastir kwenye Mediterania, hucheza juu ya miamba na milima na iko kwenye tambarare na barabara kuu inayopita kati ya miti ya mizeituni.\n\n
+Shimo zingine ndefu, kama yadi 447, par-nne ya tatu na yadi 578, par-tano sita, nguvu ya mtihani na uwezo, haswa wakati wa kucheza kwenye upepo uliopo ambao ni mkali sana juu ya uwanda.\n\n
+Kwa bahati nzuri tees anuwai hukuruhusu "uicheze mbele" na mashimo mengi, pamoja na ya sita, yanaweza kupunguzwa kwa hadi yadi 50 ikiwa utachagua tei sahihi.</string>
+
+    <string name="gary_player_golf_course_desc">Moja ya kozi mbili iliyoundwa na Gary Player huko Sun City, kozi ya Gary Player Country Club (GPCC) ni bora zaidi ya hizo mbili.\n\n
+Imeandaa Changamoto ya Gofu ya Nedbank kila Desemba kwa miaka 32 iliyopita tangu kuanzishwa kwake mnamo 1981 kama The Million Dollar Challenge, hafla ya kualika ya golfer 12.\n\n
+Mashindano haya ya kifahari yamejumuisha Tiger Woods, Sergio Garcia, Ernie Els, Jim Furyk, Lee Westwood, Jack Nicklaus, Player na Seve Ballesteros, kwa hivyo wakati unacheza raundi hapa unafuata viatu maarufu vya gofu.\n\n
+Vijana wa juu hucheza kozi hiyo kutoka kwa yadi 8,000, par 72, ingawa binaadamu wanaweza kucheza kutoka kwa tees zingine kati ya yadi 5,881-6535.</string>
+</resources>

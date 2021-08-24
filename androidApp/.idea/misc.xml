@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/drawable/auth_bg.xml" value="0.290625" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/activity_auth.xml" value="0.4" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/activity_home.xml" value="0.2626070409134158" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/activity_splash.xml" value="0.2545289855072464" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/fragment_signIn.xml" value="0.1793478260869565" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/fragment_signUp.xml" value="0.1793478260869565" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/fragment_sign_in.xml" value="0.2545289855072464" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/fragment_sign_up.xml" value="0.2545289855072464" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/golf_club.xml" value="0.536" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/golf_course.xml" value="0.2504528985507246" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/scale.xml" value="0.2504528985507246" />
+        <entry key="..\:/Documents/Study/BBIT/3-1/MobileApplicationsProgramming/Projects/PineValleyClub/app/src/main/res/layout/service_item.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

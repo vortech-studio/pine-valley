@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".presenter.LoginFragment"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_marginTop="16dp"
+                style="@style/AuthInput"
+                android:hint="@string/email"
+                app:errorEnabled="true"
+                app:startIconTint="@color/colorPrimary"
+                app:startIconContentDescription="@string/email"
+                app:startIconDrawable="@drawable/outline_mail_24">
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/signInEmailTextField"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/AuthInput"
+                android:hint="@string/password"
+                app:errorEnabled="true"
+                app:endIconMode="password_toggle"
+                app:startIconTint="@color/colorPrimary"
+                app:startIconContentDescription="@string/password"
+                app:startIconDrawable="@drawable/outline_lock_24">
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/signInPasswordTextField"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:maxLines="1" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:visibility="visible"
+                android:id="@+id/signInButton"
+                android:layout_marginTop="16dp"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/colorOnPrimary"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minWidth="200dp"
+                android:text="@string/sign_in">
+            </Button>
+            <ProgressBar
+                android:id="@+id/signInProgress"
+                android:visibility="invisible"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:indeterminate="true" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

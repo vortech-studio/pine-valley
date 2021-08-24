@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Pine Valley Golf Club</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="clubs">Clubs</string>
+    <string name="home_title">Find a golf club near you</string>
+    <string name="other_services">Other Services</string>
+    <string name="holes">holes</string>
+    <string name="language">Language</string>
+
+    <string name="swimming">Swimming</string>
+    <string name="library">Library</string>
+    <string name="horse_riding">Horse Riding</string>
+    <string name="bar">Bar</string>
+    <string name="walk">Nature Walk</string>
+    <string name="kart" translatable="false">Karting</string>
+    <string name="cycle">Cycling</string>
+    <string name="hike">Hiking</string>
+    <string name="gym">Gym</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="followers">Followers</string>
+
+    <string name="the_cascades_desc">This 6,991-yard, par-72 Gary Player design is a spectacular desert links course with lush green fairways, extensive water hazards, including the Red Sea on five holes, and a series of potentially problematic man-made lakes on four other holes.\n\n
+Other hazards on this beautiful and challenging golf course include palm trees dotted around the fairways, strategically placed fairway bunkers on most holes, plenty of green-side bunkers, and, of course, the vast desert of sand that awaits you on every hole should you stray too far off line.\n\n
+Other golf facilities available at the Cascades include a nine-hole par three course, a wide range of the latest golf clubs to rent and a Golf Academy with a 60-bay driving range, several putting and pitching practice greens and a team of PGA professionals always on hand to sort your swing out.</string>
+
+    <string name="heritage_golf_club_desc">At present there are seven beautiful championship golf courses on Mauritius with another one scheduled to be built in the next two years.\n\n
+The best of them is the Peter Matkovich-designed Heritage Golf Club course, which measures more than 7,000 yards, par 72 from the back tees.\n\n
+Here, majestic views of the Indian Ocean shimmering in the sunshine are available from holes 1-5, 7-9 and 17-18, which rise up into the foothills of Bel Ombre in the south of the island.</string>
+
+    <string name="le_touessorok_desc">Another beautiful course on Mauritius is Le Touessrok, situated on its own island at Ile Aux Cerfs on Mauritius\' east coast, and the only golf course I\'ve played that\'s not reachable by road, only by boat or helicopter.\n\n
+This Bernhard Langer-designed course measures 7,115 yards, par 72 (from the back tees) and is a layout that has to played to be believed.\n\n
+With several holes that run beside the white beaches and turquoise blue waters of the Indian Ocean, the whole course is a work of art, with a wide variety of exotic flora and fauna, including scarlet cardinals that flit around the golf course.</string>
+
+    <string name="mazagan_golf_club_desc">The course at the Mazagan Beach &amp; Golf Resort was designed by South African legend Gary Player and, though opened in 2009, has already been voted number one in Morocco by "Golf Digest" magazine.\n\n
+Created as a links course by Player that stretches alongside the beach and dunes on the shores of the Atlantic Ocean, the par-72 course can be stretched to 7,484 yards from the back tees.\n\n
+Fortunately for ordinary golfers several different sets of tees allow the course to be played at distances ranging from 6,142-6,647 yards.</string>
+
+    <string name="windhoek_golf_club">Namibia may not be top of mind for golf in Africa, but this southern African nation has 15 courses and "Golf Digest" recently voted the 18 holes at Windhoek Golf &amp; Country Club the best of them.\n\n
+Laid out on 72 hectares of natural Namibian bushveld and vegetation on the outskirts of the capital city, Windhoek measures 6,675 yards, par 71 with lush fairways that wind their way through the trees.\n\n
+In addition to the trees and rough, wetlands come into play on three holes and plenty of deep bunkers surround most greens.</string>
+
+    <string name="lemuria_golf_course_desc">The 5,827-yard, par-70 course at the Lemuria Resort on Praslin Island in the Seychelles is the only 18-hole course in this Indian Ocean archipelago. But what a golf course!\n\n
+What it lacks in length this beautiful layout more than makes up for in the challenge it presents.\n\n
+Designed by Rodney Wright and Marc Farry, and opened in 2000, the first 12 holes play through narrow palm-lined fairways beside the resort itself with plenty of water and sand waiting for wayward shots.</string>
+
+    <string name="fancourt_linkk_desc">One of three great courses at what is Africa\'s premier golf resort, the Fancourt Links course was voted number one in South Africa by Golf Digest earlier this year, while Fancourt\'s other two courses, the Montagu and the Outeniqua, made the top 20 in the Golf Digest list of the best courses in South Africa.\n\n
+All three were designed by Gary Player.The latter two courses opened in the early 1990s, while the Links opened in 2000.\n\n
+Measuring 6,919 yards, par 72 from the club tees, the Links course can be stretched to 7,535 yards from the very back tees to accommodate the world\'s best players, which it\'s done on several occasions./n/n
+In 2003 it hosted the Presidents Cup, which ended in an historic tie after a dramatic playoff between Tiger Woods and Ernie Els.</string>
+
+    <string name="gary_player_golf_course_desc">One of two courses designed by Player at Sun City, the Gary Player Country Club (GPCC) course is the better of the two.\n\n
+It\'s staged the Nedbank Golf Challenge every December for the last 32 years since its inception in 1981 as The Million Dollar Challenge, a 12-golfer invitational event.\n\n
+This prestigious tournament has featured Tiger Woods, Sergio Garcia, Ernie Els, Jim Furyk, Lee Westwood, Jack Nicklaus, Player and Seve Ballesteros, so when you play a round here you\'re following some famous golf shoes.\n\n
+The top guys play the course from a staggering 8,000 yards, par 72, though mortals can play from a variety of other tees at between 5,881-6535 yards.</string>
+
+    <string name="flamingo_golf_course_desc">This 6,698-yard, par-72 Ronald Fream design, located just more than five kilometers inland from Monastir on the Mediterranean, plays over crests and hills and is located on a plateau with fairways that run between olive trees.\n\n
+Some long holes, like the 447-yard, par-four third and the 578-yard, par-five sixth, test strength as well as ability, especially when playing into the prevailing wind which is exceptionally strong on top of the plateau.\n\n
+Fortunately a variety of tees allow you to "play it forward" and many holes, including the sixth, can be reduced by up to 50 yards if you choose the right tees.</string>
+
+    <string name="leopard_rock_golf_desc">One of 30 courses in Zimbabwe, this 1993 Peter Matkovich design is regularly voted number one in the country by "Golf Digest."
+Measuring 6,724 yards, par 72 Leopard Rock is located in lush subtropical surroundings about 180 miles southeast of the Zimbabwean capital Harare and has superb bent grass USGA-standard greens.
+The course has been carved out of dense woodland in the shadow of the Leopard Rock mountain, though many of the trees still line the fairways.</string>
+
+
+</resources>
